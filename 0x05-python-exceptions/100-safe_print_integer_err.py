@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Author: Mershark
+"""
 def safe_print_integer_err(value):
     import sys
     try:

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def safe_print_integer(value):
-    """Print an integer with "{:d}".format().
+    """Prints a integer with "{:d}".format().
 
     Args:
         value (int): The integer to print.

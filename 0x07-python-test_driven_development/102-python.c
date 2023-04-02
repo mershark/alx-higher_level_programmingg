@@ -3,7 +3,7 @@
 #include <Python.h>
 
 /**
- * print_python_string - Prints string information
+ * print_python_string - Prints string informatio
  *
  * @p: Python Object
  * Return: no return

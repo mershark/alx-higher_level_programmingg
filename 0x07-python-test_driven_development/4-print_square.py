@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """
-Module print_square
 Prints a square with the character #.
 """
 

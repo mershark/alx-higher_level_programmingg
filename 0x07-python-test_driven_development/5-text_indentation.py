@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 """
-
 Module composed by a function that prints 2 new lines after ".?:" characters
-
 """
 
 

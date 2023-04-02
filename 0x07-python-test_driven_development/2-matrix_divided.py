@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Module matrix_divided
+matrix_divided
 Divides each element of a matrix of numbers by a number
 """
 
